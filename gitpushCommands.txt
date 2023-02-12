@@ -1,0 +1,13 @@
+Git(local repository) - It means our computer.
+Github - It means gobal(remote) repository.
+
+// Git push commands for empty repository.
+
+git init
+git add file's_path or git add .(add all files for commit)
+git commit -a -m "message what u changes in file" (hyphen a means commit all files)
+
+// Go to three dots-> Remote-> add remote-> paste http link-> origin (give remote name 'origin)
+
+// git push origin branch_name(whre u want to push ur code).
+git push origin master
